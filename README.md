@@ -24,7 +24,7 @@ then add the generated dependency to your project pom.xml:
 
 ## Usage
 
-There is an example of API usage (creating new Kebab and check-in/check-out a car) : 
+There is an example of API usage (creating new Kebab and add/remove ingredients with double cheese) : 
 ```java
 
 	public static void main(String[] args) {
