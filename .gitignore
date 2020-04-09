@@ -1,0 +1,26 @@
+**/out/
+bin/
+*.log
+
+.directory
+*.hprof
+
+# Gradle
+**/build/
+**/.gradle/
+
+# Eclipse
+**/.settings/
+**/.classpath
+**/.project
+**/.metadata/
+
+# Intellij
+**/*.iml
+**/.idea/
+dump.rdb
+
+# Netbeans
+**/nb-configuration.xml
+**/target
+/output/
